@@ -1,0 +1,75 @@
+
+
+📘 MERN STACK  60 Days Challenge – Introductory Lesson Summary
+
+🎯 Overview
+- Introductory video from the MONSTAC 60 Days Challenge.
+- Focus: Building a full‑featured website from scratch.
+- Instructor explains differences between software types and introduces web development basics.
+- Emphasis on practical learning, foundational technologies, and deployment workflow.
+
+🔑 Key Concepts Explained
+Types of Software
+- Website / Web App → Runs via a browser.
+- Mobile App → Installed and run on mobile devices.
+- Desktop App → Installed on desktop or laptop computers.
+- All are software; the difference lies in the platform.
+
+Learning Approach
+- Write handwritten notes in your own words for deeper understanding.
+- Use AI tools (e.g., ChatGPT) to generate project ideas.
+- Practice by building projects, even partial ones, to improve skills.
+- Avoid confusion from advanced jargon early in learning.
+Prerequisites
+- Basic knowledge of HTML, CSS, JavaScript.
+
+⚙️ Web Development Workflow (Dev Operations)
+
+- Coding locally → Write and test website code on your computer.
+- Finalizing features → Ensure all functions work correctly.
+- Hosting on a server → Deploy code to a web server for online access.
+- Connecting a domain → Assign a domain name (e.g., codingott.com) for global accessibility.
+Notes
+- A web server stores website files and makes them accessible online.
+- A domain is a human‑readable address (instead of numeric IP).
+- Hosting on personal computers is impractical (requires 24/7 uptime, high‑speed internet, maintenance).
+- Professional hosting providers: GoDaddy, AWS, Google Cloud, Microsoft Azure.
+- Typical cost: around ₹120/month.
+
+📖 Important Terminology
+- Web Server → Computer that stores and serves website files.
+- Domain → Human‑friendly website address (e.g., google.com).
+- Deploy → Uploading website code to a server to make it live.
+- Hosting → Storing website files on a server (same as deploy).
+- Client → Browser (Chrome, Firefox, Safari, Edge) used to access websites.
+- Request → Message sent from client to server asking for content.
+- Response → Data sent back from server to client with requested content.
+
+🌐 How Website Access Works (Web Operations)
+- User types a domain name in the browser.
+- Browser sends a request to the web server.
+- Server processes the request and sends a response with website content.
+- Browser renders the website for user interaction.
+
+🌟 Key Insights
+- Software naming depends on platform: web, mobile, or desktop.
+- Best learning method: write notes + practice projects.
+- AI tools can help generate ideas and solve beginner challenges.
+- Proper deployment involves: coding locally → deploying to server → connecting domain.
+- Reliable hosting requires professional infrastructure; personal computers are not practical.
+- Domains provide branding and memorability.
+- Request‑Response is the core communication model between browsers and servers.
+
+📌 Website Hosting Essentials (Copy‑Friendly)
+- Local Computer → Develop and test code.
+- Web Server → Hosts website globally (GoDaddy, AWS, Google Cloud).
+- Domain Name → Human‑friendly address (e.g., codingott.com).
+- Deploy/Host → Upload code to server, make site live.
+- Browser (Client) → Access websites via requests and responses.
+
+🏁 Conclusion
+- Lesson builds foundational understanding of software types and web development workflow.
+- Stresses active learning through notes and projects.
+- Introduces core concepts: web servers, domains, deployment, client‑server communication.
+- Encourages learners to trust the guided process for structured growth.
+
